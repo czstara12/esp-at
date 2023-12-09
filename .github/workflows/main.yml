@@ -6,6 +6,7 @@ on:
     branches:
       - master
       - release/*
+      - esp01s
 
 jobs:
   build-esp8266-wroom02-at:
